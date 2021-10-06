@@ -1,0 +1,8 @@
+{
+  "name": "Noticias Latinoamericanas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "708fd0f0"
+}
